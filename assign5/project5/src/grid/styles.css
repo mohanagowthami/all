@@ -1,0 +1,15 @@
+.flex-container{
+    display:flex;
+    justify-content: center;
+
+    align-items: center;
+    
+
+
+}
+.singlegridstyles{
+    width: 100px;
+    height:100px;
+    background-color:green;
+    margin-right:10px;
+}

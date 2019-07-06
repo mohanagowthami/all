@@ -1,0 +1,21 @@
+.gridstyles
+{
+    width: 200px;
+    height:100px;
+    background-color:orange;
+    color:white;
+
+
+
+    text-align: center;
+    
+
+    transition: background-color 2s, border-radius 2s;
+    
+}
+.gridstyles:hover{
+    background-color: green;
+    border-radius:50px;
+
+}
+
